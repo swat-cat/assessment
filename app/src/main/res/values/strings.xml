@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">assessment</string>
+    <string name="sign_up_title">Profile creation</string>
+    <string name="sign_up_subtitle">Use the form below to submit your portfolio. An email and password are required</string>
+    <string name="first_name">First Name</string>
+    <string name="email">Email Address</string>
+    <string name="password">Password</string>
+    <string name="website">Website</string>
+    <string name="tap_avatar">Tap to add avatar</string>
+    <string name="submit">Submit</string>
+    <string name="profile_title">Hello</string>
+    <string name="profile_subtitle">Your super awesome portfolio has been successfully submitted! The preview below is what the community will see</string>
+    <string name="avatar_not_added">Avatar not added</string>
+    <!---ERRORS-->
+    <string name="email_error">Email is not valid</string>
+    <string name="password_error">Password is too short</string>
+    <string name="url_error">Not valid lin</string>
+</resources>
